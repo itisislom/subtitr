@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.env
+backend/model_cache/
+backend/uploads/
+backend/output/
